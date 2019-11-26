@@ -12,6 +12,7 @@ public class Gogo {
     public void methodInvoke(){
         int i=0;
         System.out.println("kkk"+i);
+        System.out.println("213123");
     }
 
 }
