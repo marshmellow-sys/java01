@@ -9,4 +9,9 @@ public class Gogo {
     public static void main(String [] args){
         System.out.println("第二个项目");
     }
+    public void methodInvoke(){
+        int i=0;
+        System.out.println("kkk"+i);
+    }
+
 }
